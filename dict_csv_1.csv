@@ -1,0 +1,9 @@
+Error,Count
+Connection to DB failed ,3
+Timeout ,2
+Permission Denied ,2
+Permisson Denied ,1
+Are you Root ,1
+Tried to add information to a closed ticked ,1
+Yalchin,"[2, 2]"
+Aziz,"[1, 1]"
